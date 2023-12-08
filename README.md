@@ -1,5 +1,4 @@
 # Programming Assignment 3 - HTTP Web Proxy
-### Zachary Atkins 
 ### CSCI 5273
 
 ## Build Instructions
